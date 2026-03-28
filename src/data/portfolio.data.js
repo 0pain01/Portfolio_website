@@ -14,7 +14,7 @@ export const PERSONAL = {
   email:      "koranga.yug.098@gmail.com",
   github:     "https://github.com/0pain01",
   linkedin:   "https://linkedin.com/in/pankajsingh872000",
-  resumeUrl:  "https://drive.google.com/file/d/1LRR5TmzEYK3DCl_uqSNzmxEpE5yiH5jU/view?usp=sharing",          // ← replace with actual CV link
+  resumeUrl:  "https://drive.google.com/file/d/1pjbAhWFHa5cEYK1PUmlcyKfj2n7oi21m/view?usp=sharing",          // ← replace with actual CV link
   brandName:  "PORTFOLIO",
   leetcode:   "https://leetcode.com/u/Pain01/",  // ← added LeetCode profile link
 };
